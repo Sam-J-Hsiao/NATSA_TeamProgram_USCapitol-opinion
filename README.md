@@ -94,8 +94,7 @@
 </blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p>阿拉斯加州的麗莎・穆考斯基對法案中的醫療補助與聯邦食品援助資金削減有疑慮，曾經多次與蘇珊・柯林斯討論投票。最終表決的七月一號凌晨五點，美國醫療保險與醫療補助服務中心行政長官穆罕穆德・奧茲承諾將提供阿拉斯加州在醫療補助方面的豁免，並且提供更多藥品援助。同時，《法案》也提供對阿拉斯加捕鯨船的
-<a href="https://www.thetimes.com/us/american-politics/article/why-whaling-captains-will-benefit-from-trumps-one-big-beautiful-bill-xct2ppkkx">免稅額度（一萬提升到五萬）</a>。</p>
+<p>阿拉斯加州的麗莎・穆考斯基對法案中的醫療補助與聯邦食品援助資金削減有疑慮，曾經多次與蘇珊・柯林斯討論投票。最終表決的七月一號凌晨五點，美國醫療保險與醫療補助服務中心行政長官穆罕穆德・奧茲承諾將提供阿拉斯加州在醫療補助方面的豁免，並且提供更多藥品援助。同時，《法案》也提供對阿拉斯加捕鯨船的</p>
 <p><strong>「我只是為了我州的利益奮鬥，而我必須讓阿拉斯加人了解，」他投下了關鍵的一票，「這是個痛苦的決定。」</strong><br>
 <strong>50:50。</strong><br>
 副總統破局，將修正後法案發回眾議院再度投票。</p>
