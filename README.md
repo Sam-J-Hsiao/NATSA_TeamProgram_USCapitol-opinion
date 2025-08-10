@@ -79,8 +79,8 @@
 <a href="https://www.themainewire.com/2025/07/big-beautiful-bill-passes-senate-without-collins-support-after-senate-rejected-her-plan-to-finance-rural-hospital-fund-with-tax-increase-on-ultra-rich/">
 <figure style="max-width: 100%; margin: 1rem 0; text-align: center; color: #8F9090; font-size: clamp(0.9rem, 1.5vw, 1rem);">
 <img src="https://i.postimg.cc/xCXdfq31/IMG-0176.webp" alt="共和黨參議蘭德·保羅在2025年5月20日國會山舉行的審查預算請求的聽證會。美聯社" style="max-width: 100%; height: auto; display: block; margin: 1rem 0;" />
-<p>蘇珊・科林斯坦言緬因州等新英格蘭鄉下地區的醫療資源面臨嚴重的財政問題，加上這次的補助減少，恐怕雪上加霜。北卡羅來納州的湯姆・蒂利斯也對《大而美法案》中對醫療領域的削減不滿，其中的醫療補助條款會讓北卡羅萊納州州政府每年增加３００億更多的支出。</p>
-<p><strong>51:49的關鍵時刻，共和黨做了什麼手段打平票數，使《大而美》脫離險境？<strong></p>
+蘇珊・科林斯坦言</a>緬因州等新英格蘭鄉下地區的醫療資源面臨嚴重的財政問題，加上這次的補助減少，恐怕雪上加霜。北卡羅來納州的湯姆・蒂利斯也對《大而美法案》中對醫療領域的削減不滿，其中的醫療補助條款會讓北卡羅萊納州州政府每年增加３００億更多的支出。</p>
+<p>51:49的關鍵時刻，共和黨做了什麼手段打平票數，使《大而美》脫離險境？</p>
 <blockquote class="twitter-tweet" style="margin: 1rem auto; max-width: 550px;">
   <p lang="en" dir="ltr">
     I strongly support extending the tax relief for families and small businesses.
@@ -94,25 +94,24 @@
 </blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<p>阿拉斯加州的麗莎・穆考斯基對法案中的醫療補助與聯邦食品援助資金削減有疑慮，曾經多次與蘇珊・柯林斯討論投票。最終表決的七月一號凌晨五點，美國醫療保險與醫療補助服務中心行政長官穆罕穆德・奧茲承諾將提供阿拉斯加州在醫療補助方面的豁免，並且提供更多藥品援助。同時，《法案》也提供對阿拉斯加捕鯨船的</p>
+<p>阿拉斯加州的麗莎・穆考斯基對法案中的醫療補助與聯邦食品援助資金削減有疑慮，曾經多次與蘇珊・柯林斯討論投票。最終表決的七月一號凌晨五點，美國醫療保險與醫療補助服務中心行政長官穆罕穆德・奧茲承諾將提供阿拉斯加州在醫療補助方面的豁免，並且提供更多藥品援助。同時，《法案》也提供對阿拉斯加捕鯨船的
+<a href="https://www.thetimes.com/us/american-politics/article/why-whaling-captains-will-benefit-from-trumps-one-big-beautiful-bill-xct2ppkkx">免稅額度（一萬提升到五萬）</a>。</p>
 <p><strong>「我只是為了我州的利益奮鬥，而我必須讓阿拉斯加人了解，」他投下了關鍵的一票，「這是個痛苦的決定。」</strong><br>
 <strong>50:50。</strong><br>
-</p>副總統破局，將修正後法案發回眾議院再度投票。</p>
+副總統破局，將修正後法案發回眾議院再度投票。</p>
 
 <hr>
 <h3>七月三號，獨立日前一天</h3>
-<p>美國眾議院的清晨悄然到來，地板上的時鐘已指向早上五點。民主黨人的背水一戰。</p>
-<p><strong>「我覺得我有責任站在這裡，花我的時間，把美國人民的故事說出來，而這正是我打算要做的事。」</strong><p>
-<p>哈基姆・傑弗里斯，少數黨領袖以他的身分發表最後的「魔法分鐘」演說。</p>
-<p>「共和黨魯莽的預算案是不道德的，這就是為什麼我與我們同事站在眾議院裡：站出來，以我們的所有能力反對它。」他的演說中不斷提到普通人的故事——從退休工人到單親媽媽、從邊境的兒童到在地鐵上夜班的年輕人，他讓政策影響的方方面面變得具體，讓冷酷的立法變得有血有肉。</p>
+<p><strong>美國眾議院的清晨悄然到來，地板上的時鐘已指向早上五點。</strong> 民主黨人的背水一戰。</p>
+<p><strong>「我覺得我有責任站在這裡，花我的時間，把美國人民的故事說出來，而這正是我打算要做的事。」</strong> 哈基姆・傑弗里斯，少數黨領袖以他的身分發表最後的「魔法分鐘」演說。</p>
+<p><strong>「共和黨魯莽的預算案是不道德的，這就是為什麼我與我們同事站在眾議院裡：站出來，以我們的所有能力反對它。」</strong> 他的演說中不斷提到普通人的故事——從退休工人到單親媽媽、從邊境的兒童到在地鐵上夜班的年輕人，他讓政策影響的方方面面變得具體，讓冷酷的立法變得有血有肉。</p>
 <p><strong>「當你把預算寫成這樣，你不是在計劃開支，你是在決定誰的生活有價值，誰的未來被犧牲。」</strong></p>
 <figure style="max-width: 100%; margin: 1rem 0; text-align: center; color: #8F9090; font-size: clamp(0.9rem, 1.5vw, 1rem);">
 <img src="https://i.postimg.cc/nzWt0k7H/IMG-0177.jpg" alt="圖片描述" style="max-width: 100%; height: auto; display: block; margin: 1rem 0;" />
   <figcaption> 眾議院少數黨領袖Hakeem Jeffries在2020年7月28日，於眾議院司法委員會聽證會。路透社。</figcaption>
 </figure>
-<p>他的話語成為對抗冷漠政治邏輯的利刃，遊於社會安全網、弱勢族群、食物卷與移民議題間，似乎正嘗試努力喚回「共和黨人的良知」，同時多次引用歷史人物與公民運動先驅，馬丁・路德・金、約翰・劉易斯，喚醒那份「良善的抗爭」精神，他說：<p>
-<p><strong>「要製造正義的麻煩，必要的麻煩（good trouble, necessary trouble）⋯⋯我們會堅持下去，直到勝利到來。」</strong></p>
+<p>他的話語成為對抗冷漠政治邏輯的利刃，遊於社會安全網、弱勢族群、食物卷與移民議題間，似乎正嘗試努力喚回「共和黨人的良知」，同時多次引用歷史人物與公民運動先驅，馬丁・路德・金、約翰・劉易斯，喚醒那份「良善的抗爭」精神，他說：
+<strong>「要製造正義的麻煩，必要的麻煩（good trouble, necessary trouble）⋯⋯我們會堅持下去，直到勝利到來。」</strong></p>
 <p>雖然民主黨人們都知道在眾議院已經沒有任何推翻《大而美》的可能性了，但這次「魔法分鐘」並不只是一場冗長的程序性發言，而是一場政治靈魂的辯證、一段民主記憶的喚醒。<br>
 “I yield back.” 他總共說了8小時46分，破了新的紀錄。</p>
 <p><strong>214:218。</strong></p>
