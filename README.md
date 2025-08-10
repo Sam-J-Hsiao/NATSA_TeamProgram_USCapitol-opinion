@@ -80,7 +80,7 @@
 <figure style="max-width: 100%; margin: 1rem 0; text-align: center; color: #8F9090; font-size: clamp(0.9rem, 1.5vw, 1rem);">
 <img src="https://i.postimg.cc/xCXdfq31/IMG-0176.webp" alt="共和黨參議蘭德·保羅在2025年5月20日國會山舉行的審查預算請求的聽證會。美聯社" style="max-width: 100%; height: auto; display: block; margin: 1rem 0;" />
 <p>蘇珊・科林斯坦言緬因州等新英格蘭鄉下地區的醫療資源面臨嚴重的財政問題，加上這次的補助減少，恐怕雪上加霜。北卡羅來納州的湯姆・蒂利斯也對《大而美法案》中對醫療領域的削減不滿，其中的醫療補助條款會讓北卡羅萊納州州政府每年增加３００億更多的支出。</p>
-<p>51:49的關鍵時刻，共和黨做了什麼手段打平票數，使《大而美》脫離險境？</p>
+<p><strong>51:49的關鍵時刻，共和黨做了什麼手段打平票數，使《大而美》脫離險境？<strong></p>
 <blockquote class="twitter-tweet" style="margin: 1rem auto; max-width: 550px;">
   <p lang="en" dir="ltr">
     I strongly support extending the tax relief for families and small businesses.
